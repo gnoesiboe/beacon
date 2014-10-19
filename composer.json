@@ -1,0 +1,16 @@
+{
+    "name": "gnoesiboe/beacon",
+    "description": "Beacon framework",
+    "authors": [
+        {
+            "name": "Gijs Nieuwenhuis",
+            "email": "gijsnieuwenhuis@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Gnoesiboe/Beacon": "src/Gnoesiboe/Beacon"
+        }
+    }
+}
