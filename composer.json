@@ -1,6 +1,7 @@
 {
     "name": "gnoesiboe/beacon",
     "description": "Beacon framework",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Gijs Nieuwenhuis",
